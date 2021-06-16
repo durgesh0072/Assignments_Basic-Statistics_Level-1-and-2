@@ -1,0 +1,11 @@
+ 
+
+3. If X1 ~ N(?, ?^2) and X2 ~ N(?, ?^2) are iid normal random variables, then what is the difference between  2 X1 and X1 + X2? Discuss both their distributions and parameters.
+
+Ans- As we know that if  X ? N(µ1, ?1^2 ), and  Y ? N(µ2, ?2^2 ) are two independent  random variables then   X + Y ? N(µ1 + µ2, ?1^2 + ?2^2 ) , and      X ? Y ? N(µ1 ? µ2, ?1^2 + ?2^2 ) .
+Similarly if  Z = aX + bY , where X and Y are as defined above, i.e Z is linear combination of X and Y , then Z ? N(aµ1 + bµ2, a^2?1^2 + b^2?2^2 ).
+Therefore in the question 
+2X1~ N(2 u,4 ?^2) and 
+X1+X2 ~  N(µ + µ, ?^2 + ?^2 ) ~ N(2 u, 2?^2 )
+2X1-(X1+X2) = N( 4µ,6 ?^2)
+
